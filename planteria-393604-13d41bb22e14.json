@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "planteria-393604",
+  "private_key_id": "13d41bb22e14798805ec424515387960695d899a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+I3dzN4luJrC4\nU5LW33ODyPdnj3jRC1cQT/9wwTqbXxwo5Y1JrzBoegbX0JOTBMMz3mERUoroOVLO\nI/xlu5NSBd4cOFlNxepamL9/35VZKyHRQVCgQ14Aym4DAvQ7O7GmLhsFeILo7lJk\nPNg1BC2Ec3JUTiyE60rXo8b5KOSZntQCEvw4GRlE5zMqHJrxRII41fCH98BBtGSn\n1cabB8xUCfvxYDgMmeV7vwN9jA7KMXLAPVi8JJb/+rwu18bTC/QfQ03iKgc+z4y0\nY7V9PeL+2QqUI6AXNUY4bsZMA4+Vyn3HWKiwuCQuYKQbtwgP/59/i496e35DKD+6\nSaWffybjAgMBAAECggEATeWW3u+uUJ/uP54RpxFlsGSJo3Zef3o/YZH8q1OmsJfP\nIBwnfbwVv3/axNkRVKabWGkvaFriSNCPUZ/hnEY0TWLVA8e8IoZGhHZW4ksV0zG+\nCY5SO05OOVG1r2sq5weGOPhjnqKoM0jMHX/l7hZ3lW98s/hQ+eWxxFW3Q0XTHfIE\nHTSKIHuP1OVBkPL5etT//auBM6pZFoYCQTQOaoPrHxU6+JIKVbIty5teOLGlcbvU\nBk1id9jNt7ItoEIw2bj/R+n/oMOvcq3cPcy0XKTSkE7AsvLtC1yvLVP+xcjwvSi7\nCZKbOPasmWNSWxPSthMLbe82VkSVhrerHDJhk/I0vQKBgQDw4azKFo2vn76rcduy\nO+EsQsSGj3LT1JLT/8JFzc1KGuEUbtKRcKypwVpwAc2iSF9xo2H7UMbaJCrjixEC\nVNFyAt+HW1EgXYntjKnIGCdEuoj6tGfdjBZVwY7Qo4oTyjmzshjdti25QRfgT0RK\nNMVsKtay0G8SB7XuvIkuDfV/LwKBgQDKEnyZWkr6u+b/v8zBC9zPAt+Bk69vn76o\n4wQrmXxW1ziz5DKFDfJIL+fWEV89BCpm9ds6llJkEnrMj1rh12vzNOyosy4okylN\n+wiBY1d9Z43ySnVGd3GoF3XOCzfHvM+gH3u134QJ1c5UDvqo5nTqKsgIlLhmnQqI\nmTRZK0MGjQKBgQC+Krv58yI6Y1fpDANQy7sx8SgrvzX9DBY6rfCWoSoP9fZ55h/w\n2E5H2jDmulW4Z4CKO11QRe4nK2R8rT5pY8LSSnhj6PC8J3yLgIBNStw9gzI/Eovp\nOP4tB5kTF/kbNIynU9QTvQ6N8VjDKnEUUGMHyS4kjy8QweucpVV7eWO12wKBgGki\nqTVYpz5BWXSjJDMkquQCCKvwXQzkvlw8kUTl/K1qGRRvnGFh2jb4xdS5ASZL7ovX\nSxL2dzOd8cpQo+ZxILdPR/qWD2QI/SqXe9tmBnU21cHEP7REHRxp6F8lswX3FMeo\n2cLM4nQDi/BsQrpx/U6Ap8bfKfoppvtfSr9CJQNZAoGBAJSMtdekxSzRL5VwIzHa\nCaoFU2MAqACr+mSrpqcgfAKeS1rWMlI4bRt2yiBryxJR+xopPHCzU6jQfa4r9aVI\nCoo5R8g3XuvWPRtxqUoipL56+wajavRD/dGV8UwLj8rkgudCFUopxCxDzpRbvAd+\nttbsAGrQweOuiHfVqvVkpLHZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "planteria@planteria-393604.iam.gserviceaccount.com",
+  "client_id": "100236319721801788554",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/planteria%40planteria-393604.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
